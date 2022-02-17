@@ -1,8 +1,17 @@
-- 👋 Hi, I’m Charlie
-- 👀 I’m interested in Data Science, Machine Learning, Deep Learning, Computer Vision, AI, and Software Development
-- 🌱 I’m currently learning SQL
+# About Me
 
-<!---
-charlesrclark1243/charlesrclark1243 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Education
+
+I'm currently a senior at Stony Brook University studying Applied Mathematics & Statistics, and Economics, with a minor in Computer Science. I'm hoping to enroll in a data science or computer science graduate program after graduating.
+
+## Interests
+
+ - Machine Learning/Deep Learning.
+ - Computer Vision.
+ - Software Development.
+ 
+## What I'm Learning Now
+
+ - MacOS.
+ - Natural Language Processing (NLP).
+ - Computer Architecture.
