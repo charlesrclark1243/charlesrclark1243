@@ -1,5 +1,13 @@
 # About Me
 
+## Table of Contents
+
+1. [Education](#education)
+    - [Undergraduate Studies](#undergraduate-studies)
+    - [Graduate Studies](#graduate-studies)
+2. [Interests](#interests)
+3. [Self-Education Goals](#self-education-goals)
+
 ## Education
 
 ### Undergraduate Studies
