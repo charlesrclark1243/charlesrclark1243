@@ -2,16 +2,26 @@
 
 ## Education
 
-I'm currently a senior at Stony Brook University studying Applied Mathematics & Statistics, and Economics, with a minor in Computer Science. I'm hoping to enroll in a data science or computer science graduate program after graduating.
+### Undergraduate Studies
+
+**Stony Brook University,** Stony Brook, NY
+University Scholars Program, Class of 2022
+Applied Mathematics & Statistics, Economics Dual Major
+Computer Science Minor
+Cumulative GPA: 3.90/4.00
+
+### Graduate Studies
+
+**Coming Soon**
 
 ## Interests
-
  - Machine Learning/Deep Learning.
  - Computer Vision.
  - Software Development.
+ - Statistics.
  
-## What I'm Learning Now
-
- - MacOS.
- - Natural Language Processing (NLP).
+## Self-Education Goals
+ - macOS.
  - Computer Architecture.
+ - Networking.
+ - Multithreading & Concurrency.
