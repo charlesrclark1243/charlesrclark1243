@@ -23,6 +23,7 @@ Cumulative GPA: 3.91/4.00\
 
 **Georgia Tech,** Atlanta, GA\
 Master of Science in Computer Science
+Starting Fall 2022
 
 ## Interests
  - Machine Learning/Deep Learning.
