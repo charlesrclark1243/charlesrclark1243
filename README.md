@@ -16,11 +16,13 @@
 University Scholars Program, Class of 2022\
 Applied Mathematics & Statistics, Economics Dual Major\
 Computer Science Minor\
-Cumulative GPA: 3.90/4.00
+Cumulative GPA: 3.91/4.00\
+*Summa Cum Laude*
 
 ### Graduate Studies
 
-**Coming Soon**
+**Georgia Tech,** Atlanta, GA\
+Master of Science in Computer Science
 
 ## Interests
  - Machine Learning/Deep Learning.
@@ -32,4 +34,3 @@ Cumulative GPA: 3.90/4.00
  - macOS.
  - Computer Architecture.
  - Networking.
- - Multithreading & Concurrency.
