@@ -22,7 +22,7 @@ Cumulative GPA: 3.91/4.00\
 ### Graduate Studies
 
 **Georgia Tech,** Atlanta, GA\
-Master of Science in Computer Science
+Master of Science in Computer Science\
 Starting Fall 2022
 
 ## Interests
