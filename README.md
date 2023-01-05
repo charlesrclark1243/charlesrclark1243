@@ -14,7 +14,7 @@
 
 **Stony Brook University,** Stony Brook, NY\
 University Scholars Program, Class of 2022\
-Applied Mathematics & Statistics, Economics Dual Major\
+Bachelor of Science in Applied Mathematics & Statistics, Economics (Dual Major)\
 Computer Science Minor\
 Cumulative GPA: 3.91/4.00\
 *Summa Cum Laude*
@@ -23,12 +23,14 @@ Cumulative GPA: 3.91/4.00\
 
 **Georgia Tech,** Atlanta, GA\
 Master of Science in Computer Science\
-Class of 2024 
+Expecting December 2024 Graduation\
+Current GPA: 4.00/4.00
 
-## Interests
- - Software Development
- - Machine Learning/Deep Learning
+## Professional Interests
+ - Software Engineering
+ - Machine Learning
  
 ## Self-Education Goals
- - macOS.
- - Computer Architecture.
+ - Computer Architecture
+ - Operating Systems
+ - JavaScript
