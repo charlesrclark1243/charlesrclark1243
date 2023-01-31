@@ -31,6 +31,6 @@ Current GPA: 4.00/4.00
  - Machine Learning
  
 ## Self-Education Goals
- - Computer Architecture
+ - Computer Architecture (In progress)
+ - JavaScript (In progress)
  - Operating Systems
- - JavaScript
