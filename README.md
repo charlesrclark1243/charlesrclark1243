@@ -5,7 +5,7 @@
 1. [Education](#education)
     - [Undergraduate Studies](#undergraduate-studies)
     - [Graduate Studies](#graduate-studies)
-2. [Interests](#interests)
+2. [Professional Interests](#professional-interests)
 3. [Self-Education Goals](#self-education-goals)
 
 ## Education
