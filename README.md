@@ -6,7 +6,6 @@
     - [Undergraduate Studies](#undergraduate-studies)
     - [Graduate Studies](#graduate-studies)
 2. [Professional Interests](#professional-interests)
-3. [Self-Education Goals](#self-education-goals)
 
 ## Education
 
@@ -23,14 +22,9 @@ Cumulative GPA: 3.91/4.00\
 
 **Georgia Tech,** Atlanta, GA\
 Master of Science in Computer Science\
-Expecting December 2024 Graduation\
+Expecting May 2025 Graduation\
 Current GPA: 4.00/4.00
 
 ## Professional Interests
  - Software Engineering
  - Machine Learning
- 
-## Self-Education Goals
- - Computer Architecture (In progress)
- - JavaScript (In progress)
- - Operating Systems
