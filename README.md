@@ -6,6 +6,7 @@
     - [Undergraduate Studies](#undergraduate-studies)
     - [Graduate Studies](#graduate-studies)
 2. [Professional Interests](#professional-interests)
+3. [Hobbies](#hobbies)
 
 ## Education
 
@@ -22,9 +23,15 @@ Cumulative GPA: 3.91/4.00\
 
 **Georgia Tech,** Atlanta, GA\
 Master of Science in Computer Science\
+Specialization in Machine Learniing\
 Expecting May 2025 Graduation\
 Current GPA: 4.00/4.00
 
 ## Professional Interests
- - Software Engineering
  - Machine Learning
+ - Deep Learning
+ - Data Visualization
+
+## Hobbies
+ - Hiking
+ - Playing the violin
