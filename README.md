@@ -38,5 +38,5 @@ Current GPA: 4.00/4.00
  - Playing the violin
 
 # Other Accounts
-[LinkedIn](https://www.linkedin.com/in/charlesr-clark/)
+[LinkedIn](https://www.linkedin.com/in/charlesr-clark/)\
 [Academic GitHub](https://github.gatech.edu/cclark339)
