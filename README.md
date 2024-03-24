@@ -7,6 +7,7 @@
     - [Graduate Studies](#graduate-studies)
 2. [Professional Interests](#professional-interests)
 3. [Hobbies](#hobbies)
+4. [Other Accounts](#other-accounts)
 
 ## Education
 
@@ -35,3 +36,7 @@ Current GPA: 4.00/4.00
 ## Hobbies
  - Hiking
  - Playing the violin
+
+# Other Accounts
+[LinkedIn](https://www.linkedin.com/in/charlesr-clark/)
+[Academic GitHub](https://github.gatech.edu/cclark339)
