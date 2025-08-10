@@ -23,15 +23,21 @@ Cumulative GPA: 3.91/4.00\
 ### Graduate Studies
 
 **Georgia Tech,** Atlanta, GA\
-Master of Science in Computer Science\
-Specialization in Machine Learniing\
-Expecting May 2025 Graduation\
-Current GPA: 4.00/4.00
+Master of Science in Computer Science, Class of 2025\
+Specialization in Machine Learning\
+Cumulative GPA: 4.00/4.00
+
+**University of Florida,** Gainesville, FL\
+PhD in Computer Science\
+Incoming Fall 2025
 
 ## Professional Interests
- - Machine Learning
- - Deep Learning
- - Data Visualization
+ - Generative AI
+ - Metric learning
+ - NLP
+ - Computer vision
+ - Data visualization
+ - Higher education
 
 ## Hobbies
  - Hiking
