@@ -28,8 +28,7 @@ Specialization in Machine Learning\
 Cumulative GPA: 4.00/4.00
 
 **University of Florida,** Gainesville, FL\
-PhD in Computer Science\
-Incoming Fall 2025
+PhD in Computer Science, August 2025 - Present\
 
 ## Professional Interests
  - Generative AI
