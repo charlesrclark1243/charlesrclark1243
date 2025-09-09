@@ -31,9 +31,10 @@ Cumulative GPA: 4.00/4.00
 PhD in Computer Science, August 2025 - Present
 
 ## Professional Interests
+ - Bioinformatics
+ - Antimicrobial resistance (AMR)
  - Generative AI
  - Metric learning
- - NLP
  - Computer vision
  - Data visualization
  - Higher education
