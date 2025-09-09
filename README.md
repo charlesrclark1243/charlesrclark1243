@@ -44,4 +44,3 @@ PhD in Computer Science, August 2025 - Present
 
 # Other Accounts
 [LinkedIn](https://www.linkedin.com/in/charlesr-clark/)\
-[Academic GitHub](https://github.gatech.edu/cclark339)
